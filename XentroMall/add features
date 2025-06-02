@@ -1,0 +1,197 @@
+🔹 Landing Page for New Applicant
+View all available stalls:
+
+-Stall number
+
+-Floor area (dimensions)
+
+-Monthly rate / rental fee
+
+-Description ( corner stall, near entrance)
+
+-Status (available/reserved)
+-------------------------------------------->
+
+Search Filter (for applicant preference):
+
+-Filter by size range (e.g., 4x4 sqm, 6x6 sqm)
+
+-Filter by price
+
+-Filter by location (e.g., Ground floor, 2nd floor)
+
+🔹 Stall Selection Page
+After viewing a stall:
+
+Prompt: "Are you satisfied with this stall?"
+
+If yes → Proceed to Signup
+
+If no → option to go back and choose another
+
+🔹 Signup and Application Upload
+New applicant signs up
+
+Upload application:
+
+Upload individual images (JPEG/PNG)
+
+Tip: Add a step to re-order or preview images
+
+Optional: Add photo of valid ID and picture of the business (if any)
+
+🔹 Admin Review
+Admin dashboard:
+
+View all new application uploads per applicant
+
+Approve or request revision
+
+If Not Approved:
+
+Applicant receives notification + reason
+
+Option to upload revised documents
+
+If Approved:
+
+Applicant is notified and now eligible to create their full account/profile
+
+🔹 Payment Section
+Display:
+
+Stall Number
+
+Monthly Rental Fee
+
+Required deposit / advance
+
+Other charges (if any)
+
+Remarks (e.g., "First month only", "2 months deposit required")
+
+Payment Methods:
+
+Manual upload of payment proof
+
+✅ Suggestions to Improve:
+Dashboard for Applicants
+
+Application status tracker (Pending, Approved, For Revision)
+
+Stall selected summary
+
+Upload history
+
+Notification System
+
+SMS / Email updates when status changes
+
+Terms & Conditions Checkbox
+
+Before final signup or payment
+
+FAQ Section
+
+Common questions like "Can I change stalls after application?", etc.
+
+Mobile-Friendly Interface
+
+Since many users may use phones to apply and upload documents
+
+Document Format Option (Optional)
+
+Offer PDF upload option (for future improvement)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============================================================================>
+Lease Renewal Process
+🔄 Lease Renewal Process
+🔹 For Applicant / Tenant
+Lease Expiry Reminder
+
+System sends an automated reminder:
+
+Example: "Your lease for Stall #102 will expire on [DATE]. Would you like to renew?"
+
+Sent 1–2 months before contract ends (via email or SMS)
+
+Renewal Form / Confirmation
+
+Tenant logs in to their account and clicks Renew Lease
+
+Options:
+
+Select lease period (e.g., 6 months, 1 year)
+
+Confirm stall details (same stall or request for transfer, if allowed)
+
+Review updated rental terms (if there are changes)
+
+Upload New Application Documents (If Required)
+
+If new documents are required, system prompts tenant to upload
+
+Admin Review (if needed)
+
+Admin reviews tenant’s request and documents
+
+If Approved
+
+Tenant receives notice: "Your lease has been renewed. Please proceed to payment."
+
+Tenant makes payment and uploads proof (or pays online)
+
+If Not Approved
+
+Admin provides reason and may suggest revision or non-renewal
+
+🔹 For Admin
+Dashboard for Expiring Contracts
+
+List of tenants with:
+
+Expiry dates
+
+Stall number
+
+Last renewal date
+
+Button: “Send Renewal Reminder”
+
+Review Renewal Requests
+
+View documents if submitted
+
+Check if there are payment issues, violations, etc.
+
+Approve or Decline with reason
+
+Update Lease Status
+
+Once approved and paid, system updates:
+
+New expiration date
+
+Renewal count history (for record-keeping)
+
+Payment confirmation
+
+
+
+
+
+

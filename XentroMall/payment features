@@ -1,0 +1,97 @@
+💰 Payment Process Overview
+🔹 For New Applicants (after approval)
+Payment Page Shows:
+
+Stall number & description
+
+Breakdown of fees:
+
+Advance payment (e.g., 1 month)
+
+Security deposit (e.g., 2 months)
+
+Other fees (e.g., utilities, admin fee if any)
+
+Total amount due
+
+Remarks from admin (optional):
+
+“Pay within 5 days to confirm stall”
+
+“Partial payment not accepted”, etc.
+
+Payment Methods:
+
+GCash / Maya / Bank Transfer
+
+Manual payment (with upload of proof)
+
+[Optional] Online payment via payment gateway (if supported)
+
+Upload Proof of Payment (if manual)
+
+Image upload (JPG/PNG)
+
+Enter reference number
+
+Auto-tag as “Pending verification”
+
+Admin Verification
+
+Admin dashboard shows pending payments
+
+Admin confirms receipt → Status becomes “Paid” → Applicant gets confirmation
+
+If invalid or incorrect amount → status = “Rejected” with remarks
+
+🔁 For Renewing Tenants
+After Lease Renewal is Approved:
+
+System displays updated contract info and payment breakdown
+
+Same process as above:
+
+Payment method
+
+Upload proof
+
+Verification
+
+Auto-update lease validity upon confirmation
+
+🔹 For Admin
+Admin Dashboard Features:
+
+View all pending payments
+
+Filter by:
+
+New applicants
+
+Renewals
+
+Verified / Rejected
+
+Click to view uploaded proof
+
+Add remarks (if necessary)
+
+Update payment status (Pending → Paid / Rejected)
+
+Reports/Logs:
+
+Daily/weekly payment summary
+
+Exportable record (CSV, Excel)
+
+List of unpaid tenants (flagged after due date)
+
+✅ Additional Payment Features (Suggestions)
+Auto-reminder for due dates (especially for renewals)
+
+Late payment tracking (and add late fees if applicable)
+
+Digital receipt generation
+
+Installment option (optional based on admin policy)
+

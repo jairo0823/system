@@ -1,0 +1,53 @@
+📢 Admin Announcement System
+🔹 For Admin: Announcement Panel
+Create Announcement Form:
+
+Title (e.g., “Tenant Meeting this Friday”)
+
+Content / Message body
+
+Attachment (optional – PDF, image, flyer)
+
+Audience:
+
+All tenants
+
+Selected tenants (by floor/stall/type)
+
+Category:
+
+ Events
+
+ Renewals
+
+ General Notice
+
+ Policy Update
+
+Schedule option:
+
+Post now
+
+Schedule for later (e.g., next week)
+
+Features:
+
+Edit / Delete announcements
+
+Track who has read or acknowledged the message
+
+Set “Important” flags (highlighted in red or pinned)
+
+🔹 For Tenants (Applicant/Account Holder Side)
+Notification Panel or Inbox:
+
+List of announcements (title, date posted)
+
+Badge icon if unread
+
+Click to open full message
+
+Download attachments if any
+
+Optional: “Acknowledge” button (for meetings, renewals, etc.)
+
